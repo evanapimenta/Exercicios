@@ -21,4 +21,6 @@ int main(){
 
     printf("Salário total: R$%.2f\n", salario);
     printf("Salário excedente: R$%.2f", hora_extra);
+    
+    return 0;
 }

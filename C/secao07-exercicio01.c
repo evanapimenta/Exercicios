@@ -17,4 +17,6 @@ int main(){
     }
     printf("Fim da execução.\n");
     printf("Maior número informado: %d", maior);
+
+    return 0;
 }

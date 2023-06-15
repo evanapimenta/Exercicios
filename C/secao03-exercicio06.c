@@ -20,4 +20,6 @@ int main(){
     salario_total = (horas_trabalhadas * valor_hora);
     //saída
     printf("O salário do funcionário no mês é: R$%.2f", salario_total);
+
+    return 0;
 }

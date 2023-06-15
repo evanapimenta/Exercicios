@@ -32,4 +32,7 @@ int main(){
         printf("Idade: insuficiente para natação.", idade);
     }
 
+    return 0;
+
+
 }

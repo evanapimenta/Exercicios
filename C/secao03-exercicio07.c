@@ -11,4 +11,6 @@ int main(){
     peso_ideal = (72 * altura) - 58;
 
     printf("Seu peso ideal seria %.1fkg", peso_ideal);
+
+    return 0;
 }

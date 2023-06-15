@@ -15,5 +15,5 @@ int main(){
     //saída
     printf("O valor digitado em metros equivale a %d centímetros", centimetros);
 
-	return 0
+	return 0;
 }

@@ -26,5 +26,5 @@ int main(){
 		printf("Sexo não reconhecido.");
 	}
 	
-	//saída
+	return 0;
 }	

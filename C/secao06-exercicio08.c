@@ -24,4 +24,5 @@ int main(){
             printf("O número %d é ímpar e negativo.", num);
         }
     }
+    return 0;
 }

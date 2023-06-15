@@ -21,4 +21,7 @@ int main(){
     else {
         printf("Nível de poluição informado: %.2f\nNível dentro do permitido.", poluicao);
     }
+
+    return 0;
+
 }

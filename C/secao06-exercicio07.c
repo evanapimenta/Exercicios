@@ -28,4 +28,5 @@ int main(){
         printf("Número: %d, quadrado: %d\n", n3, q3);
         printf("Número: %d, quadrado: %d\n", n4, q4);
     }
+    return 0;
 }

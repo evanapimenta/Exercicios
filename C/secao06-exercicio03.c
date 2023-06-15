@@ -21,4 +21,6 @@ int main(){
 	//saída
 	printf("%d\n", p);
 	printf("%d", i);
+
+	return 0;
 }

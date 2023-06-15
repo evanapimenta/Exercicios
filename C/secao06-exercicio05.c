@@ -33,6 +33,8 @@ int main(){
 	printf("Peso: %.2fkg", peso);
 	printf("\nExcesso: %.2fkg", excesso);
 	printf("\nMulta: R$%.2f", multa);
+	
+	return 0;
 }
 
 

@@ -11,8 +11,10 @@ int main(){
     printf("Insira a quantidade máxima de produto: ");
     scanf("%d", &quant_maxima);
         
-    estoque_medio = (quantidade_minima + quantidade_maxima) / 2;
+    estoque_medio = (quant_minima + quant_maxima) / 2;
     
     printf("A média do estoque é %2.f", estoque_medio);
+
+    return 0;
     
 }

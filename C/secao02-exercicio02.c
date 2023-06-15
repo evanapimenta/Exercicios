@@ -14,4 +14,6 @@ int main(){
     multiplicacao = soma * num1;
     
     printf("O resultado da multiplicação foi %d", multiplicacao);
+
+    return 0;
 }
