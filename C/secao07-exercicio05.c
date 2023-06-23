@@ -16,5 +16,5 @@ int main(){
         printf("Senha não pode ser igual ao nome. Insira outra senha: ");
         fgets(senha, 100, stdin);
     }
-
+    return 0;
 }
